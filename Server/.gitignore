@@ -1,0 +1,4 @@
+node_modules
+configSQL.js
+server/node_modules
+package-lock.json
